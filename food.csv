@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Order_Time,Customer_Name,City/Area,Restaurant_Name,Cuisine_Type,Item_Name,Quantity,Unit_Price,Discount,Total_Amount,Delivery_Time (Minutes),Customer_Rating,Review,Repeat_Order (Yes/No),Profit
+ORD1001,2026-05-02,15:09,Vijay,KK Nagar,Food Palace,North Indian,Dosa,4,150,0,600,49,3.5,Excellent,No,122.27
+ORD1002,2026-05-03,14:43,Meena,KK Nagar,Food Palace,Chinese,Dosa,4,150,10,590,50,4.5,Excellent,Yes,94.53
+ORD1003,2026-05-04,12:58,Sanjay,Anna Nagar,Food Palace,North Indian,Fried Rice,3,120,30,330,33,4.8,Very Good,No,51.08
+ORD1004,2026-05-05,10:03,Meena,Anna Nagar,Tasty Bites,North Indian,Noodles,1,120,30,90,59,4.5,Good,No,25.89
+ORD1005,2026-05-06,20:34,Anu,Madurai,BBQ Point,Chinese,Noodles,2,120,10,230,55,3.8,Excellent,Yes,67.96
+ORD1006,2026-05-07,13:55,Sanjay,Theni,Spice Hub,Fast Food,Fried Rice,2,180,10,350,42,3.6,Excellent,No,100.28
+ORD1007,2026-05-08,19:05,Rahul,Madurai,BBQ Point,Fast Food,Burger,1,250,10,240,49,4.8,Late Delivery,No,55.47
+ORD1008,2026-05-09,12:04,Vijay,KK Nagar,Food Palace,South Indian,Dosa,3,300,20,880,57,4.3,Good,Yes,208.19
+ORD1009,2026-05-10,14:28,Arun,Madurai,BBQ Point,North Indian,Dosa,3,200,30,570,34,4.1,Average,Yes,160.69
+ORD1010,2026-05-11,11:43,Rahul,Theni,BBQ Point,North Indian,Biryani,3,150,0,450,20,4.4,Late Delivery,No,126.71
+ORD1011,2026-05-12,15:42,Nisha,Anna Nagar,Food Palace,South Indian,Fried Rice,2,180,10,350,25,4.3,Late Delivery,No,112.46
+ORD1012,2026-05-13,20:19,Rahul,Madurai,Dosa Corner,Chinese,Dosa,2,200,0,400,52,5.0,Very Good,No,99.17
+ORD1013,2026-05-14,21:03,Sanjay,Theni,Spice Hub,Fast Food,Fried Rice,2,120,20,220,57,4.4,Very Good,Yes,37.48
+ORD1014,2026-05-15,11:33,Divya,Tallakulam,BBQ Point,South Indian,Biryani,3,250,0,750,60,4.8,Very Good,No,261.24
+ORD1015,2026-05-16,17:41,Meena,Theni,Dosa Corner,Chinese,Fried Rice,4,300,10,1190,48,4.0,Good,Yes,351.74
+ORD1016,2026-05-17,11:40,Meena,Anna Nagar,Spice Hub,Chinese,Burger,2,200,30,370,59,4.4,Excellent,Yes,76.7
+ORD1017,2026-05-18,21:05,Anu,Theni,Food Palace,Fast Food,Burger,4,150,0,600,40,3.9,Good,Yes,176.81
+ORD1018,2026-05-19,12:19,Arun,Theni,Food Palace,South Indian,Noodles,1,300,20,280,54,3.5,Good,No,76.41
+ORD1019,2026-05-20,11:28,Priya,KK Nagar,Tasty Bites,South Indian,Noodles,3,120,20,340,49,4.4,Excellent,No,107.5
+ORD1020,2026-05-21,14:29,Arun,Anna Nagar,Food Palace,South Indian,Dosa,3,150,0,450,30,4.3,Late Delivery,Yes,127.72
+ORD1021,2026-05-22,10:05,Meena,KK Nagar,Tasty Bites,North Indian,Biryani,3,180,0,540,55,4.4,Very Good,Yes,90.43
+ORD1022,2026-05-23,16:47,Arun,Anna Nagar,Food Palace,Fast Food,Noodles,2,180,30,330,50,4.1,Average,No,103.18
+ORD1023,2026-05-24,21:25,Priya,Anna Nagar,BBQ Point,North Indian,Fried Rice,3,150,0,450,34,4.4,Late Delivery,No,146.17
+ORD1024,2026-05-25,17:14,Sanjay,Theni,BBQ Point,North Indian,Pizza,1,150,0,150,54,4.0,Excellent,No,29.72
+ORD1025,2026-05-26,20:01,Anu,KK Nagar,Tasty Bites,Fast Food,Biryani,2,150,10,290,31,4.3,Very Good,No,81.9
+ORD1026,2026-05-27,13:25,Anu,Anna Nagar,Tasty Bites,Fast Food,Burger,2,250,30,470,50,4.0,Good,Yes,106.24
+ORD1027,2026-05-28,20:28,Kavin,KK Nagar,BBQ Point,South Indian,Burger,3,200,0,600,54,4.5,Good,Yes,208.53
+ORD1028,2026-05-29,11:39,Sanjay,Madurai,Tasty Bites,Fast Food,Pizza,2,180,10,350,39,4.2,Late Delivery,No,57.19
+ORD1029,2026-05-30,18:28,Sanjay,Theni,Food Palace,Fast Food,Noodles,1,300,0,300,57,3.9,Very Good,No,87.8
+ORD1030,2026-05-01,14:40,Rahul,Madurai,BBQ Point,Chinese,Fried Rice,1,300,30,270,52,3.7,Excellent,Yes,61.36
+ORD1031,2026-05-02,16:02,Anu,KK Nagar,Tasty Bites,Chinese,Fried Rice,3,120,30,330,44,4.0,Good,No,78.69
+ORD1032,2026-05-03,11:23,Sanjay,Madurai,BBQ Point,Chinese,Dosa,3,180,30,510,51,4.7,Good,No,147.36
+ORD1033,2026-05-04,13:33,Priya,Anna Nagar,Food Palace,South Indian,Dosa,4,250,10,990,53,3.8,Good,No,242.14
+ORD1034,2026-05-05,13:26,Anu,KK Nagar,Tasty Bites,South Indian,Noodles,4,200,30,770,54,5.0,Good,Yes,146.12
+ORD1035,2026-05-06,11:20,Divya,Madurai,BBQ Point,North Indian,Biryani,2,200,10,390,54,3.6,Very Good,No,97.82
+ORD1036,2026-05-07,17:51,Meena,Theni,Spice Hub,North Indian,Dosa,1,200,10,190,54,3.9,Late Delivery,Yes,50.37
+ORD1037,2026-05-08,18:39,Sanjay,Tallakulam,BBQ Point,North Indian,Fried Rice,4,200,0,800,25,3.6,Good,No,140.67
+ORD1038,2026-05-09,10:45,Meena,Anna Nagar,Spice Hub,Chinese,Dosa,4,300,0,1200,51,4.4,Good,Yes,382.45
+ORD1039,2026-05-10,20:27,Arun,Tallakulam,BBQ Point,Fast Food,Fried Rice,4,150,20,580,39,4.2,Good,Yes,197.35
+ORD1040,2026-05-11,21:35,Meena,Anna Nagar,Dosa Corner,Chinese,Biryani,2,180,10,350,43,4.0,Good,Yes,86.87
+ORD1041,2026-05-12,20:04,Divya,Anna Nagar,Tasty Bites,Fast Food,Burger,2,120,20,220,52,5.0,Very Good,No,72.76
+ORD1042,2026-05-13,21:27,Priya,KK Nagar,Spice Hub,North Indian,Dosa,3,180,20,520,55,4.6,Average,No,113.97
+ORD1043,2026-05-14,11:02,Rahul,Tallakulam,Food Palace,Fast Food,Biryani,2,120,20,220,35,3.7,Late Delivery,No,56.5
+ORD1044,2026-05-15,17:36,Divya,Anna Nagar,BBQ Point,Fast Food,Burger,4,300,10,1190,35,4.8,Good,No,238.01
+ORD1045,2026-05-16,13:23,Arun,Anna Nagar,Spice Hub,South Indian,Biryani,4,120,0,480,29,3.8,Late Delivery,Yes,161.49
+ORD1046,2026-05-17,18:35,Nisha,Theni,Spice Hub,Chinese,Burger,4,250,0,1000,44,4.8,Average,Yes,213.56
+ORD1047,2026-05-18,15:28,Meena,Tallakulam,Dosa Corner,Chinese,Pizza,3,120,30,330,57,3.6,Good,No,81.89
+ORD1048,2026-05-19,10:18,Priya,Tallakulam,Food Palace,Fast Food,Burger,4,300,10,1190,52,4.7,Late Delivery,Yes,214.01
+ORD1049,2026-05-20,17:27,Nisha,Madurai,Spice Hub,Chinese,Fried Rice,4,250,0,1000,20,3.8,Very Good,Yes,187.36
+ORD1050,2026-05-21,19:23,Nisha,Madurai,Food Palace,Fast Food,Biryani,4,180,0,720,60,3.7,Average,No,247.29
